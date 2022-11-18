@@ -1,6 +1,6 @@
 ##### 0. 说明
 
-* Spring boot版本：`2.1.0.RELEASE`
+* Spring boot版本：`2.5.2`
 * JDK版本：1.8
 * 运行的WEB环境：NONE、SERVLET
 
