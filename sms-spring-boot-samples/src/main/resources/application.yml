@@ -1,0 +1,13 @@
+sms:
+  ali:
+    accessKey: your AccessKey
+    accessKeySecret: your accessKeySecret
+    defaultSignature: your sign
+    defaultTemplateCode: your templateCode
+    default-area-code: +86
+  tx:
+    secret-id: secretId
+    secret-key: secretKey
+    template-id: templateId
+    sign: signName
+    sms-sdk-app-id: appId
